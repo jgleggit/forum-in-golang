@@ -1,0 +1,4 @@
+2023/07/21 21:49:24 INFO: Custom Info log message
+2023/07/21 21:49:24 WARNING: Custom Warning log message
+2023/07/21 21:49:24 ERROR: Custom Error log message
+2023/07/21 21:49:24 FATAL: Custom Fatal log message
